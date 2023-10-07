@@ -29,22 +29,36 @@ Meu nome é Ana Pàula, mas pode me chamar de Ana, trabalho como Analista de tes
 
 Automação de Testes;
 
-Plataforma Web;
-Selenium WebDriver + Java;
-Testes unitários JUNIT;
-Documento de API Swagger;
-Aplicações MVC;
-WebServices: SOAP;
-WebServices: REST;
-Micro-serviços;
-Ferramentas e testes em WebServices SOAP;
-Ferramentas e testes em WebServices REST;
-Ferramentas De Testes de API : Postman
-Ide de desenvolvimento : Eclipse, Visual Code, Intellij 
-Teste automatizados de mobile 
-Ferramentas De Teste De Mobile : Appium
+-Plataforma Web;
+
+-Selenium WebDriver + Java;
+
+-Testes unitários JUNIT;
+
+-Documento de API Swagger;
+
+-Aplicações MVC;
+
+-WebServices: SOAP;
+
+-WebServices: REST;
+
+-Micro-serviços;
+
+-Ferramentas e testes em WebServices SOAP;
+
+-Ferramentas e testes em WebServices REST;
+
+-Ferramentas De Testes de API : Postman
+
+-Ide de desenvolvimento : Eclipse, Visual Code, Intellij 
+
+-Teste automatizados de mobile 
+
+-Ferramentas De Teste De Mobile : Appium
 
 Conhecimento em framework Scrum;
+
 
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=AnaPaulaDosSantos)](https://github.com/AnaPaulaDosSantos)
